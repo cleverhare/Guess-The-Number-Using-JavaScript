@@ -27,9 +27,7 @@ Yeah Definitely
 - [@cleverhare](https://www.github.com/cleverhare)
 
 
-## Tribute 
 
-Thanks for making this till the end. 
 
 
 ## Screenshots
@@ -40,3 +38,6 @@ Thanks for making this till the end.
 ## 🔗 Links
 [![live](https://img.shields.io/badge/Live_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@cleverhare/guess-the-number)
 
+## Tribute 
+
+Thanks for making this till the end. 
